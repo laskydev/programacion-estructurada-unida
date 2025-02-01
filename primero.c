@@ -10,6 +10,7 @@ int main() {
 	float coste;
 	float depreciacion;
 	float valor_actual;
+	
 	float valor_anual;
 	float valor_recuperacion;
 	int vida_util;
