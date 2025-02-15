@@ -1,3 +1,10 @@
 .vscode
 primero.dSYM/Contents
 
+*.exe
+*.o
+*.so
+*.dll
+*.out
+*.a
+*.dylib
