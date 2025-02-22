@@ -99,9 +99,9 @@ El nuevo valor de x es: 15
 
 ## Imágenes del Programa
 
-![Captura de ejecución](imagenes/ejecucion_funciones.png)
+![Captura de ejecución](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/05-funciones/quinto.png)
 
-![Diagrama de flujo](imagenes/diagrama_flujo_funciones.png)
+![Diagrama de flujo](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/05-funciones/Funciones.png)
 
 ---
 ### Información Adicional

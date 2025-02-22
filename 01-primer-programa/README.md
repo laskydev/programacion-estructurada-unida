@@ -89,9 +89,9 @@ Año Depreciación Dep. Acumulada Valor Anual
 
 ## Imágenes del Programa
 
-![Captura de ejecución](imagenes/ejecucion.png)
+![Captura de ejecución](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/01-primer-programa/primero.png)
 
-![Diagrama de flujo](imagenes/diagrama_flujo.png)
+![Diagrama de flujo](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/01-primer-programa/primero-diagrama.png)
 
 ---
 ### Información Adicional

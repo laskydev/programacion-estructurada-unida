@@ -90,9 +90,9 @@ Volkswagen
 
 ## Imágenes del Programa
 
-![Captura de ejecución](imagenes/ejecucion_autos.png)
+![Captura de ejecución](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/03-tercer-programa/tercero-diagrama.png)
 
-![Diagrama de flujo](imagenes/diagrama_flujo_autos.png)
+![Diagrama de flujo](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/03-tercer-programa/tercero.png)
 
 ---
 ### Información Adicional

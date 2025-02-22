@@ -77,9 +77,9 @@ la media es 30
 
 ## Imágenes del Programa
 
-![Captura de ejecución](imagenes/ejecucion_media.png)
+![Captura de ejecución](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/02-segundo-programa/segundo.png)
 
-![Diagrama de flujo](imagenes/diagrama_flujo_media.png)
+![Diagrama de flujo](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/02-segundo-programa/segundo-diagrama.png)
 
 ---
 ### Información Adicional

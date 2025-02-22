@@ -78,9 +78,9 @@ Escriba un valor para arreglo[2][2]: 9
 
 ## Imágenes del Programa
 
-![Captura de ejecución](imagenes/ejecucion_matriz.png)
+![Captura de ejecución](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/04-cuarto-programa/cuarto.png)
 
-![Diagrama de flujo](imagenes/diagrama_flujo_matriz.png)
+![Diagrama de flujo](https://raw.githubusercontent.com/laskydev/programacion-estructurada-unida/refs/heads/main/04-cuarto-programa/cuarto-diagrama.png)
 
 ---
 ### Información Adicional
