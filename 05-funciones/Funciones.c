@@ -1,15 +1,4 @@
-/* Este codigo ha sido generado por el modulo psexport 20230904-mac de PSeInt.
-Es posible que el codigo generado no sea completamente correcto. Si encuentra
-errores por favor reportelos en el foro (http://pseint.sourceforge.net). */
-
 #include <stdio.h>
-
-/* El algoritmo contiene funciones que reciben argumentos por referencia.
-   Cuando estos argumentos no se corresponden con arreglos, al llamar a la
-   función el argumento actual debe ser un puntero, lo cual se logra
-   anteponiendo el operador & (a la variable que se pasa como argumento
-   actual). En estos casos, la traducción automática falla, por lo que
-   debe agregarlo manualmente donde sea necesario. */
 
 // Declaraciones adelantadas de las funciones
 void saludar();
@@ -26,7 +15,6 @@ int calculardoble(int num)
     printf("Recibimos \n");
     int res;
     res = num * 2;
-    // printf(num * 2);
 
     return res;
 }

@@ -1,7 +1,3 @@
-/* Este codigo ha sido generado por el modulo psexport 20230904-mac de PSeInt.
-Es posible que el codigo generado no sea completamente correcto. Si encuentra
-errores por favor reportelos en el foro (http://pseint.sourceforge.net). */
-
 #include<stdio.h>
 
 int main() {
